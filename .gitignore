@@ -58,3 +58,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+hola/.idea/compiler.xml
+hola/.idea/copyright/profiles_settings.xml
+hola/.idea/encodings.xml
+hola/.idea/misc.xml
+hola/.idea/workspace.xml
